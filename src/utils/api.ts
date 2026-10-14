@@ -1,0 +1,1 @@
+export const api =  'https://6ab506f224ee9d3caa1c1492.mockapi.io/Practice'
